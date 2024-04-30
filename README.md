@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Cheapest**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Ionic with Angular**
 
 - 💬 Ask me about **C++ ,Javascript etc.**
 
