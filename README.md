@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Cheapest**
 
-- 🌱 I’m currently learning **Angular18**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **C++ ,Javascript etc.**
 
