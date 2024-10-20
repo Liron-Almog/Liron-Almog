@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Cheapest**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker & Kubernetes**
 
 - 💬 Ask me about **C++ ,Javascript etc.**
 
